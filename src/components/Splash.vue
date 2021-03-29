@@ -53,7 +53,7 @@ export default {
     mounted() {
         let tl = gsap.timeline({
             onComplete: function() {
-                // localStorage.isFirstTimeUser = false;
+                localStorage.isFirstTimeUser = false;
             },
         });
         console.log(tl);

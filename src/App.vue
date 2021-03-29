@@ -61,14 +61,14 @@ export default {
             this.$router.push(`/route/${state}/${route_id}`);
         },
     },
-    // mounted() {
-    //     if (localStorage.isFirstTimeUser) {
-    //         console.log("LOCAL STORAGE ", localStorage.isFirstTimeUser);
-    //         this.isFirstTimeUser = false;
-    //     } else {
-    //         console.log("No Local Storage");
-    //     }
-    // },
+    mounted() {
+        if (localStorage.isFirstTimeUser) {
+            console.log("LOCAL STORAGE ", localStorage.isFirstTimeUser);
+            this.isFirstTimeUser = false;
+        } else {
+            console.log("No Local Storage");
+        }
+    },
 };
 </script>
 
