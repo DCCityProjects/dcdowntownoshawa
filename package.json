@@ -12,6 +12,7 @@
         "core-js": "^3.6.5",
         "gsap": "^3.6.0",
         "svg-pan-zoom": "^3.6.1",
+        "swiper": "^5.4.5",
         "vue": "^2.6.11",
         "vue-awesome-swiper": "^4.1.1",
         "vue-pinch-zoom": "^1.0.1",
