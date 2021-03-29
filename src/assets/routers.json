@@ -1,0 +1,340 @@
+{
+    "casual": [
+        {
+            "id": 1,
+            "routeCategory": "casual",
+            "categoryDisplayName": "Casual",
+            "locationName": "Oshawa House",
+            "locationYear": 1838,
+            "locationPainter": "N/A",
+            "locationInformation": "Built around 1838 as a Hotel and Tavern. It is one of the oldest buildings in Oshawa. Legend says that Canada’s first prime minister would stop in for drinks when traveling between Toronto and Ottawa. In the 1920’s, the upper floors were converted over to apartments. The Café Oshawa House opened its doors in September 2019.",
+            "email": "N/A",
+            "phone": "N/A",
+            "address": "62 King Street West",
+            "imagePaths": ["img/casual/oshawa_house/oshawa_house_1.png"]
+        },
+        {
+            "id": 2,
+            "routeCategory": "casual",
+            "categoryDisplayName": "Casual",
+            "locationName": "Plane Crash",
+            "locationYear": 1918,
+            "locationPainter": "N/A",
+            "locationInformation": "Plane Crash – where TD is today at 4 King St West. On April 22, 1918, a plane crashed into the top of the Dominion Bank building. One person was injured; Mrs Guy was leaving the Dry Goods Store at 8 King St West and was hit by a falling brick. The plane had taken off from the Leaside Training camp and engine failure was reported as the cause. Oshawa and Whitby were left without electricity after the plane was left suspended in the overhead wires.",
+            "email": "N/A",
+            "phone": "N/A",
+            "address": "4 King St West",
+            "imagePaths": ["img/casual/plane_crash/plane_crash-1.png"]
+        },
+        {
+            "id": 3,
+            "routeCategory": "casual",
+            "categoryDisplayName": "Casual",
+            "locationName": "First stand alone Post Office",
+            "locationYear": 1907,
+            "locationPainter": "N/A",
+            "locationInformation": "Built in 1907, The Customs office was on the 2nd floor until 1920. The Post office moved to Simcoe and Athol in November 1954. The building had a fire in 1955 and was eventually torn down in 1957.",
+            "email": "N/A",
+            "phone": "N/A",
+            "address": "40 King St East",
+            "imagePaths": [
+                "img/casual/first_stand_alone_post_office/first_stand_alone_post_office_1.png"
+            ]
+        },
+        {
+            "id": 4,
+            "routeCategory": "casual",
+            "categoryDisplayName": "Casual",
+            "locationName": "Regent Theatre",
+            "locationYear": 1919,
+            "locationPainter": "N/A",
+            "locationInformation": "Built in 1919 by Famous Players Theatres. It was designated as a Historical Building in 2001. Ontario Tech Univeristy bought the building in 2009 and re-opened it as a lecture hall in September 2010. Up until the mid-1980’s, there were 5 theatres operating in downtown Oshawa.",
+            "email": "N/A",
+            "phone": "N/A",
+            "address": "50 King Street East",
+            "imagePaths": ["img/casual/regent_theatre/regent_theatre_1.png"]
+        },
+        {
+            "id": 5,
+            "routeCategory": "casual",
+            "categoryDisplayName": "Casual",
+            "locationName": "Genosha Hotel",
+            "locationYear": 1929,
+            "locationPainter": "N/A",
+            "locationInformation": "Opened in 1929. The senior management of General Motors held meetings here. The most famous visitor was the wife of King George VI in 1939, Queen Elizabeth the Queen Mother. It is said that Ian Fleming, the author of the James Bond novels, might have visited the Hotel while training at Camp-X in 1942. ",
+            "email": "N/A",
+            "phone": "N/A",
+            "address": "70 King St East",
+            "imagePaths": ["img/casual/genosha_hotel/genosha_hotel_1.png"]
+        }
+    ],
+    "development": [
+        {
+            "id": 1,
+            "routeCategory": "development",
+            "categoryDisplayName": "Development",
+            "locationName": "Ontario Street & Richmond Street: 630 units and two 18 storey residential towers",
+            "locationYear": 2021,
+            "locationPainter": "N/A",
+            "locationInformation": "This project features two 18-storey residential towers representing 630 units. In addition, there will be 566 square metres of commercial space. This tower shows the potential of Oshawa’s downtown once a number of developments are completed. It is expected between 6,000 and 8,000 people will move to the city’s centre over the next 10 to 15 years.",
+            "email": "N/A",
+            "phone": "N/A",
+            "address": "73 Ontario Street",
+            "imagePaths": ["img/development/73ontario_st/73ontario_st.png"]
+        },
+        {
+            "id": 2,
+            "routeCategory": "development",
+            "categoryDisplayName": "Development",
+            "locationName": "80 Bond Street: 21 Story Tower with 375 units",
+            "locationYear": 2021,
+            "locationPainter": "N/A",
+            "locationInformation": "80 Bond is a new apartment development by Atria Development Corporation Currently under construction at Mary Street North & Bond Street East, Oshawa. Luxury rentals for lease in the heart of downtown Oshawa. Steps from the YMCA and featuring great amenities that include party room, outdoor terrace with BBQ’s, gym and dog wash and 24-Hour security - 80 Bond will have it all. Now Under Construction",
+            "email": "INFO@ATRIA.CA",
+            "phone": "416-466-2144",
+            "address": "Mary Street North & Bond Street East, Oshawa, ON",
+            "imagePaths": [
+                "img/development/80bond_st/80bond_st-1.jpg",
+                "img/development/80bond_st/80bond_st-2.jpg",
+                "img/development/80bond_st/80bond_st-3.jpg",
+                "img/development/80bond_st/80bond_st-4.jpg"
+            ]
+        },
+        {
+            "id": 3,
+            "routeCategory": "development",
+            "categoryDisplayName": "Development",
+            "locationName": "135 Bruce Street Oshawa, ON L1H 1R1",
+            "locationYear": 2021,
+            "locationPainter": "N/A",
+            "locationInformation": "A new apartment building, including a 22 storey tower and a 10 storey tower connected by a 3 storey podium, with a total of 509 apartment units located at the northwest corner of 135 Bruce Street. A new apartment building, including a 22 storey tower and a 10 storey tower connected by a 3 storey podium, with a total of 509 apartment units located at the northwest corner of 135 Bruce Street. 135 Bruce Street site that included 2,145 apartments, 96 townhouses, a park, commercial uses and the Eulalie extension and local roads. At the conclusion of the meeting, the Development Services Committee adopted a recommendation to refer the applications back to staff for further review and the preparation of a subsequent report and recommendation.",
+            "email": "bruce@cartcongc.com",
+            "phone": "905-723-7890",
+            "address": "984 Farewell Street South, Unit 1.",
+            "imagePaths": [
+                "img/development/135bruce_st/135bruce_st-1.jpg",
+                "img/development/135bruce_st/135bruce_st-2.jpg",
+                "img/development/135bruce_st/135bruce_st-3.jpg",
+                "img/development/135bruce_st/135bruce_st-4.jpg"
+            ]
+        },
+        {
+            "id": 4,
+            "routeCategory": "development",
+            "categoryDisplayName": "Development",
+            "locationName": "47 Simcoe Street South",
+            "locationYear": 2021,
+            "locationPainter": "N/A",
+            "locationInformation": "Constructed in 1953, the property at 47 Simcoe Street South is located on the southeast corner of Simcoe Street South and Athol Street East, bounded by Celina Street to the east, and 57 Simcoe Street South to the south. Located within Downtown Oshawa, the former Oshawa Federal Building and Post Office’s frontage is 41.45 metres (136 ft.)",
+            "email": "N/A",
+            "phone": "905-434-6405",
+            "address": "47 Simcoe street south Oshawa, ON L1H4G4",
+            "imagePaths": [
+                "img/development/47simcoe_st/47simcoe _st-1.jpeg",
+                "img/development/47simcoe_st/47simcoe _st-2.jpg",
+                "img/development/47simcoe_st/47simcoe _st-3.jpeg"
+            ]
+        },
+        {
+            "id": 5,
+            "routeCategory": "development",
+            "categoryDisplayName": "Development",
+            "locationName": "Lovell Drugs Heritage Building Revitalization",
+            "locationYear": 2021,
+            "locationPainter": "N/A",
+            "locationInformation": "A complete revitalization of the historic Lovell Drugs building in Downtown Oshawa, with 23 brand new residential units. The building is over 100 years old. More info: http://fourteen1-2.com/",
+            "email": "N/A",
+            "phone": "N/A",
+            "address": "6-18 King Street E",
+            "imagePaths": ["img/development/6-18king_st/6-18_king_st.png"]
+        },
+        {
+            "id": 6,
+            "routeCategory": "development",
+            "categoryDisplayName": "Development",
+            "locationName": "The Genosha Hotel Heritage Building Revitalization",
+            "locationYear": 2021,
+            "locationPainter": "N/A",
+            "locationInformation": "A complete revitalization of the historic Genosha Hotel in Downtown Oshawa, adding 86 brand new luxury residential units and approximately 7500 sq. ft. of ground floor commercial space. The designated heritage building at 70 King Street East is now complete. More information on the history: https://www.oshawa.ca/city-hall/resources/Heritage/Heritage-Research-Rpt_70-King-St-E.pdf",
+            "email": "N/A",
+            "phone": "N/A",
+            "address": "70 King Street East ",
+            "imagePaths": ["img/development/genosha_hotel/genosha_hotel.jpeg"]
+        },
+        {
+            "id": 7,
+            "routeCategory": "development",
+            "categoryDisplayName": "Development",
+            "locationName": "Go Train Expansion",
+            "locationYear": 2021,
+            "locationPainter": "N/A",
+            "locationInformation": "In June 2016, the Provincial Government announced the approval of the Lakeshore East Go Train Extension to Bowmanville. This extension will connect East Durham by rail to Whitby, Ajax, Pickering, Scarborough, Downtown Toronto, and the rest of the GTA. In May 2019, Metrolinx proposed four options to the community for the planned expansion. More Information: http://www.metrolinx.com/en/greaterregion/projects/docs/bowmanville-expansion/BowmavilleExpansionUpdate_May2019.pdf",
+            "email": "N/A",
+            "phone": "N/A",
+            "address": "50 King Street East ",
+            "imagePaths": ["img/development/go_train/go_train.png"]
+        }
+    ],
+    "publicArt": [
+        {
+            "id": 1,
+            "routeCategory": "publicArt",
+            "categoryDisplayName": "Public Art",
+            "locationName": "Grace",
+            "locationYear": 2007,
+            "locationPainter": "Mary Ann Barkhouse",
+            "locationInformation": "Grace was commissioned by the RMG. And its created by Mary Ann Barkhouse. It features three beavers, sitting on a piece of Canadian Shield granite, the top of which is highly polished. The sculpture is named Grace after Italian sculptor Antonio Canova’s The Three Graces, depicting three svelte goddesses, Beauty, Mirth and Good Cheer. By placing Grace on a piece of the Canadian Shield, Barkhouse places them as valuable players in the ecosystem of the boreal forest and survivors of the European Fashion industry.",
+            "email": "N/A",
+            "phone": "N/A",
+            "address": "72 Queen St",
+            "imagePaths": ["img/public_art/grace/grace.jpg"]
+        },
+        {
+            "id": 2,
+            "routeCategory": "publicArt",
+            "categoryDisplayName": "Public Art",
+            "locationName": "Crown",
+            "locationYear": 1987,
+            "locationPainter": "Douglas Bentham",
+            "locationInformation": "Crown is a controversial piece and has raised many discussions about the practice and creation of art. Douglas Bentham developed an extensive series of large-scale sculptures which elaborate on the nature and character of Crown. In this way Crown has become a key sculpture in the development of his work since 1987.",
+            "email": "N/A",
+            "phone": "N/A",
+            "address": "72 Queen St",
+            "imagePaths": ["img/public_art/crown/crown.jpg"]
+        },
+        {
+            "id": 3,
+            "routeCategory": "publicArt",
+            "categoryDisplayName": "Public Art",
+            "locationName": "River Tree/Bench",
+            "locationYear": 2002,
+            "locationPainter": "Reinhard Reitzenstein",
+            "locationInformation": "The sculpture is made by Reinhard Reitzenstein and consists of a twenty-four-foot bronze Ironwood tree lying on its side, its position due, perhaps to high winds, or the ravage of time. River/Tree’s curved “spine” the juncture from the roots has protrusions reminiscent of a backbone and delicate root system, speak to a sublime beauty in nature that can only be truly appreciated through sympathetic understanding of what has been lost. River Tree/Bench was selected by the Jury Committee of the RMG and was commissioned. The sculpture is installed at the rear of the building by the Oshawa creek. Date of creation is around 2002. ",
+            "email": "N/A",
+            "phone": "N/A",
+            "address": "72 Queen St",
+            "imagePaths": [
+                "img/public_art/river_tree_brench/river_tree_bench.jpg"
+            ]
+        },
+        {
+            "id": 4,
+            "routeCategory": "publicArt",
+            "categoryDisplayName": "Public Art",
+            "locationName": "Silent Bells",
+            "locationYear": 1981,
+            "locationPainter": "Ron Baird",
+            "locationInformation": "Silent Bells was originally designed for a survey show in 1984 by Ron Baird and donated to the Robert McLaughlin Gallery by the artist for installation in the atrium lobby. The sculpture is motorized and slowly rotates. Estimated date of creation is around 1981-1984. It’s entirely made up of Aluminium. It’s currently located in 72 Queen Street.",
+            "email": "N/A",
+            "phone": "N/A",
+            "address": "72 Queen St",
+            "imagePaths": ["img/public_art/slient_bells/silent_bells.jpg"]
+        }
+    ],
+    "murals": [
+        {
+            "id": 1,
+            "routeCategory": "murals",
+            "categoryDisplayName": "Murals",
+            "locationName": "Full Steam Ahead",
+            "locationYear": 1995,
+            "locationPainter": "Gus Froese",
+            "locationInformation": "Commissioned by the City of Oshawa in 1995. The mural was created by Gus Froese. Full Steam Ahead is a collage celebrating the history of Oshawa and the Oshawa Carriage Works. Located at the back of the mural is Parkwood and how it stands today. Also painted in the mural is one of Oshawa Carriage works cars, a 1924 McLaughlin Buick. On the extreme right is an original depiction of the Queen's Hotel. Established in 1874 boasted state of the art technology with ensuite bathrooms, running water, and electricity. Painted in the centre is the Oshawa Carriage Works with their employees out front. Back behind the Oshawa Carriage Works is Oshawa's Newspaper at the time. The Oshawa Daily Reformer later to become the Oshawa Times. On the far left of the mural is a depiction of the Oshawa Harbour and Barnhart's Pavilion, the local dance hall, where the youth went to socialize and dance.",
+            "email": "N/A",
+            "phone": "N/A",
+            "address": "64 Simcoe Street S",
+            "imagePaths": [
+                "img/murals/full_steam_ahead/FullSteamAhead-64SimcoeStreet-img1.jpg",
+                "img/murals/full_steam_ahead/FullSteamAhead-64SimcoeStreet-img2.jpg",
+                "img/murals/full_steam_ahead/FullSteamAhead-64SimcoeStreet-img3.jpg"
+            ]
+        },
+        {
+            "id": 2,
+            "routeCategory": "murals",
+            "categoryDisplayName": "Murals",
+            "locationName": "On the Lake (The Argyle)",
+            "locationYear": 1995,
+            "locationPainter": "Ross Beard",
+            "locationInformation": "Commissioned in 1995 and painted by Ross Beard, The Argyle was a steam ship that docked at Sydenham Harbour (now Oshawa Harbour) in the early 1900s. Oshawa sported the deepest port in Southern Ontario Horseshoe. On the right of the mural is the Argyle, the cargo ship and passenger ship that went from Oshawa to Toronto for .75 cents or a return fare of $1.00 dollar. Travelling the Great Lakes, the Argyle was also the link to New York State across Lake Ontario. To the left of the mural, on the shore of the Syndem Harbour, is the Wilson House. The Wilson's were the very first family to officially settle in Oshawa. The Robinson house is painted next to the pier.",
+            "email": "N/A",
+            "phone": "N/A",
+            "address": "32 King Street E",
+            "imagePaths": [
+                "img/murals/on_the_lake/OnTheLake-32KingStreet_img1.jpg",
+                "img/murals/on_the_lake/OnTheLake-32KingStreet_img2.jpg",
+                "img/murals/on_the_lake/OnTheLake-32KingStreet_img3.jpg",
+                "img/murals/on_the_lake/OnTheLake-32KingStreet_img4.jpg"
+            ]
+        },
+        {
+            "id": 3,
+            "routeCategory": "murals",
+            "categoryDisplayName": "Murals",
+            "locationName": "Oshawa 1935",
+            "locationYear": 1995,
+            "locationPainter": "Dan & Peter Sawatzky",
+            "locationInformation": "Commissioned by the City of Oshawa in 1995. The mural was created by father and son team Dan & Peter Sawatzky. This mural depicts Oshawa's Four Corners on Kingston Road (now King St. & Simcoe St) as it would have appeared in 1935. It exhibits the manually operated traffic sign, used and operated by Officer Ed Stauffer as he directed traffic during busy times. Down in the heart of Oshawa on the main street were train tracks for the Oshawa Carriage Works, which remained until 1962.",
+            "email": "N/A",
+            "phone": "N/A",
+            "address": "23 King Street W",
+            "imagePaths": [
+                "img/murals/oshawa_1935/Oshawa1935-23KingStreet_img1.jpg",
+                "img/murals/oshawa_1935/Oshawa1935-23KingStreet_img2.jpg",
+                "img/murals/oshawa_1935/Oshawa1935-23KingStreet_img3.jpg",
+                "img/murals/oshawa_1935/Oshawa1935-23KingStreet_img4.jpg"
+            ]
+        },
+        {
+            "id": 4,
+            "routeCategory": "murals",
+            "categoryDisplayName": "Murals",
+            "locationName": "Borsberry Musical Hall",
+            "locationYear": 1997,
+            "locationPainter": "Brian Romagnoli",
+            "locationInformation": "Commissioned by the City of Oshawa in 1997. The mural was created by Brian Romagnoli. This mural depicts Borsberry Music Hall, a 700 seat theatre that was located on the north side of King Street, just east of Simcoe Street, in the early 20th century. It played host to a number of dramatic and musical productions. The inside of the Borsberry Music Hall is portrayed as a montage on the mural. Pictured outside the Music Hall is a McLaughlin Buick from 1924. The artist decided to give the mural a little life and incorporated the doorway to the apartments above into the mural painting it blue and yellow.Commissioned by the City of Oshawa in 1997. The mural was created by Brian Romagnoli. This mural depicts Borsberry Music Hall, a 700 seat theatre that was located on the north side of King Street, just east of Simcoe Street, in the early 20th century. It played host to a number of dramatic and musical productions. The inside of the Borsberry Music Hall is portrayed as a montage on the mural. Pictured outside the Music Hall is a McLaughlin Buick from 1924. The artist decided to give the mural a little life and incorporated the doorway to the apartments above into the mural painting it blue and yellow.",
+            "email": "N/A",
+            "phone": "N/A",
+            "address": "31 Celina Street",
+            "imagePaths": [
+                "img/murals/brsberry_musical_hall/BorsberryMusicalHall-23KingStreet_img1.jpg",
+                "img/murals/brsberry_musical_hall/BorsberryMusicalHall-23KingStreet_img2.jpg",
+                "img/murals/brsberry_musical_hall/BorsberryMusicalHall-23KingStreet_img3.jpg"
+            ]
+        },
+        {
+            "id": 5,
+            "routeCategory": "murals",
+            "categoryDisplayName": "Murals",
+            "locationName": "Driving Force",
+            "locationYear": 1996,
+            "locationPainter": "Rudolf Stussi",
+            "locationInformation": "Commissioned by the City of Oshawa in 1996. The mural was created by Rudolf Stussi. The evolution of Oshawa's automobile industry is depicted in this mural. In 1899, the McLaughlin Carriage Factory was destroyed by fire, but was rebuilt within a year. The McLaughlin Motor Car Company, founded in 1907, began producing automobiles and, in 1918, became General Motors of Canada. The mural illustrates the role of General Motors during the Second World War in the manufacture of combat vehicles. The far right of the mural depicts the later technological advancements in automobile production.Commissioned by the City of Oshawa in 1996. The mural was created by Rudolf Stussi. The evolution of Oshawa's automobile industry is depicted in this mural. In 1899, the McLaughlin Carriage Factory was destroyed by fire, but was rebuilt within a year. The McLaughlin Motor Car Company, founded in 1907, began producing automobiles and, in 1918, became General Motors of Canada. The mural illustrates the role of General Motors during the Second World War in the manufacture of combat vehicles. The far right of the mural depicts the later technological advancements in automobile production.",
+            "email": "N/A",
+            "phone": "N/A",
+            "address": "15 Celina Street",
+            "imagePaths": [
+                "img/murals/driving_force/DrivingForce-15CelineStreet_img1.jpg",
+                "img/murals/driving_force/DrivingForce-15CelineStreet_img2.jpg",
+                "img/murals/driving_force/DrivingForce-15CelineStreet_img3.jpg"
+            ]
+        },
+        {
+            "id": 6,
+            "routeCategory": "murals",
+            "categoryDisplayName": "Murals",
+            "locationName": "Recreation By The Lake",
+            "locationYear": 1997,
+            "locationPainter": "Tony Johnson",
+            "locationInformation": "Commissioned by the City of Oshawa in 1997. The mural was created by Brian Tony Johnson. The Lake Ontario Waterfront is pictured in this mural. It was a favourite gathering place for the Oshawa middle class. Streetcars running north and south along Simcoe Street were a popular means of getting to the waterfront. Barnhart's Pavilion (pictured in the background) was famous throughout Oshawa and beyond for its Friday night dances. Also pictured is The Ocean Wave, a merry-go-round and prominent fixture at the lake.",
+            "email": "N/A",
+            "phone": "N/A",
+            "address": "72-74 Celina Street",
+            "imagePaths": [
+                "img/murals/recreation_by_the_lake/RecreationByTheLake-72-74CelinaStreet_img1.jpg",
+                "img/murals/recreation_by_the_lake/RecreationByTheLake-72-74CelinaStreet_img2.jpg",
+                "img/murals/recreation_by_the_lake/RecreationByTheLake-72-74CelinaStreet_img3.jpg"
+            ]
+        }
+    ]
+}
