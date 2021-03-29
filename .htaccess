@@ -1,7 +1,7 @@
 <IfModule mod_rewrite.c>
   RewriteEngine On
   RewriteBase /dcdowntownoshawa/
-  RewriteRule ^/downtown/index\.html$ - [L]
+  RewriteRule ^/dcdowntownoshawa/index\.html$ - [L]
   RewriteCond %{REQUEST_FILENAME} !-f
   RewriteCond %{REQUEST_FILENAME} !-d
   RewriteRule . /dcdowntownoshawa/index.html [L]
